@@ -2,7 +2,7 @@
 
 This was the first project for my bootcamp. I was expected to recreate the website in this video: https://youtu.be/_t29BK3Tseg 
 
-This project displays my proficiency with HTML and CSS, including animations. There was no javascript used! 
+This project displays my proficiency with HTML and CSS, including animations and responsiveness. There was no javascript used! 
 
 Enjoy!
 
