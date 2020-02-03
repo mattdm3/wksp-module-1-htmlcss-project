@@ -1,3 +1,12 @@
+# README FIRST
+
+This was the first project for my bootcamp. I was expected to recreate the website in this video: https://youtu.be/_t29BK3Tseg 
+
+This project displays my proficiency with HTML and CSS, including animations. There was no javascript used! 
+
+Enjoy!
+
+
 # Description
 
 Create an HTML file and a CSS file that reproduces the following  
