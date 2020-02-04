@@ -4,6 +4,10 @@ This was the first project for my bootcamp. I was expected to recreate the websi
 
 This project displays my proficiency with HTML and CSS, including animations and responsiveness. There was no javascript used! 
 
+See the live demo here: 
+
+<a href="https://bootcamp-project-1.netlify.com/" target="_blank">https://bootcamp-project-1.netlify.com/</a>
+
 Enjoy!
 
 
