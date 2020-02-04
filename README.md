@@ -6,7 +6,7 @@ This project displays my proficiency with HTML and CSS, including animations and
 
 See the live demo here: 
 
-<a href="https://bootcamp-project-1.netlify.com/" target="_blank">https://bootcamp-project-1.netlify.com/</a>
+<a href="https://bootcamp-project-1.netlify.com/" target="_blank">LIVE DEMO</a>
 
 Enjoy!
 
